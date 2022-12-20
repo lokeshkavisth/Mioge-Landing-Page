@@ -1,1 +1,1 @@
-<h1 style="text-align:center">Mioge - Landing Page</h1>
+<h1 align-center>Mioge - Landing Page</h1>
